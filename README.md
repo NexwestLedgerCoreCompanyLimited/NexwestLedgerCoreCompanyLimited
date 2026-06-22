@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://oddsforge.org/logo.svg" alt="NLC AI X OddsForge" width="90" height="90">
+  <img src="https://oddsforge.org/logo.svg" alt="NexGerCore X Oddsforge" width="90" height="90">
 </p>
 
-<h1 align="center">NLC AI X OddsForge</h1>
+<h1 align="center">NexGerCore X Oddsforge</h1>
 
 <p align="center">
-  Building a state-of-the-art, multi-model <b>AI platform</b> — chat, code, and build<br>
-  with an OpenAI- &amp; Anthropic-compatible API. Pay as you go.
+  Building <a href="https://oddsforge.org"><b>NLC AI X OddsForge</b></a> — a state-of-the-art,<br>
+  multi-model <b>AI platform</b> with an OpenAI- &amp; Anthropic-compatible API. Pay as you go.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 What I'm building
+### 🚀 What we build
 
 **[NLC AI X OddsForge](https://oddsforge.org)** — a powerful AI assistant platform:
 
