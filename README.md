@@ -1,48 +1,37 @@
 <p align="center">
-  <img src="https://oddsforge.org/logo.svg" alt="NexGerCore X Oddsforge" width="90" height="90">
+  <img src="https://oddsforge.org/logo-512.png" alt="logo" width="88" height="88">
 </p>
 
-<h1 align="center">NexGerCore X Oddsforge</h1>
+<h1 align="center">Nai Natthawut</h1>
 
 <p align="center">
-  Building <a href="https://oddsforge.org"><b>NLC AI X OddsForge</b></a> — a state-of-the-art,<br>
-  multi-model <b>AI platform</b> with an OpenAI- &amp; Anthropic-compatible API. Pay as you go.
-</p>
-
-<p align="center">
-  <a href="https://oddsforge.org">🌐 oddsforge.org</a> ·
-  <a href="https://oddsforge.org/chat">💬 Chat</a> ·
-  <a href="https://oddsforge.org/docs">📚 Docs</a> ·
-  <a href="https://oddsforge.org/blog">📰 Blog</a> ·
-  <a href="https://oddsforge.org/status">📈 Status</a>
+  Founder & builder — I ship <b>AI products</b>.<br>
+  Creator of <a href="https://oddsforge.org"><b>NLC AI X OddsForge</b></a> under the <a href="https://github.com/NexGerCore"><b>NexGerCore × Oddsforge</b></a> org.
 </p>
 
 ---
 
-### 🚀 What we build
+## 🚀 Featured project
 
-**[NLC AI X OddsForge](https://oddsforge.org)** — a powerful AI assistant platform:
+### [NLC AI X OddsForge](https://oddsforge.org) — multi-model AI platform
+A state-of-the-art AI assistant: **web chat** (live streaming, Artifacts, web browsing, MCP tool connectors), an **OpenAI- & Anthropic-compatible API**, and pay-as-you-go billing — no subscription.
 
-- 💬 **Web chat** with live streaming, Artifacts (build a web page → preview & download), web browsing, and tool connectors (MCP)
+<p>
+  <a href="https://oddsforge.org"><img src="https://img.shields.io/badge/🌐_Platform-oddsforge.org-d97757?style=for-the-badge"></a>
+  <a href="https://github.com/NexGerCore/nlc-cli"><img src="https://img.shields.io/badge/💻_Open_source-nlc--cli-7c5cff?style=for-the-badge"></a>
+</p>
+
+- 🌐 **Platform:** https://oddsforge.org · [Chat](https://oddsforge.org/chat) · [Docs](https://oddsforge.org/docs)
+- 💻 **Open-source CLI:** [github.com/NexGerCore/nlc-cli](https://github.com/NexGerCore/nlc-cli)
+- 🏢 **Org:** [github.com/NexGerCore](https://github.com/NexGerCore)
 - 🤖 **Models:** NLC PRO · NLC Vision · NLC Fast · NLC ULTRA MAX
-- 🔌 **OpenAI- & Anthropic-compatible API** — works in Cursor, VS Code, Cline & more
-- 💳 **Pay-as-you-go**, top up from $5 — no subscription
 
-### 📦 Featured
-
-| Project | Description |
-|---------|-------------|
-| **[nlc-cli](https://github.com/NexwestLedgerCoreCompanyLimited/nlc-cli)** | Multi-model AI in your terminal — chat, browse the web, call tools |
-| **[oddsforge.org](https://oddsforge.org)** | The full AI platform (web app + API) |
-
-### 🛠️ Tech
+## 🛠️ Tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
 
-### 📫 Reach
-
-- 🌐 **https://oddsforge.org**
-- ✉️ support@oddsforge.org
+## 📫 Contact
+🌐 https://oddsforge.org · ✉️ support@oddsforge.org
