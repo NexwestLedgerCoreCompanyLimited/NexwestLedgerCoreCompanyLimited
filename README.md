@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://oddsforge.org/logo-512.png" alt="NEXWEST" width="84" height="84">
+  <img src="logo.png" alt="NEXWEST LEDGER CORE" width="400">
 </p>
 
 <h1 align="center">NEXWEST LEDGER CORE</h1>
@@ -16,23 +16,23 @@
 
 ---
 
-## 🚀 ผลิตภัณฑ์ของเรา / Our products
+## ผลิตภัณฑ์ของเรา / Our products
 
-ทุกตัว **ใช้งานจริง (live)** — คลิกที่โดเมนเพื่อเข้าไปดูได้เลย 👇
+ทุกตัว **ใช้งานจริง (live)** — คลิกที่โดเมนเพื่อเข้าไปดูได้เลย
 
-| | ผลิตภัณฑ์ | คือ | เข้าดูเว็บจริง |
-|:--:|---|---|---|
-| 💼 | **NEXWEST** | SaaS payroll · commission · income ledger · payout approval สำหรับธุรกิจไทย ตรวจสอบย้อนหลังได้ | **[nexwest.co.th](https://nexwest.co.th)** · [app](https://app.nexwest.app) |
-| 🤖 | **NLC AI X OddsForge** | แพลตฟอร์ม AI หลายโมเดล — เว็บแชท (สตรีมมิ่ง, Artifacts, ค้นเว็บสด, เครื่องมือ MCP) + API มาตรฐาน OpenAI/Anthropic จ่ายตามใช้ | **[oddsforge.org](https://oddsforge.org)** · [chat](https://oddsforge.org/chat) · [docs](https://oddsforge.org/docs) |
-| 🎮 | **Nex Topup** | เว็บเติมเกมราคาถูก เติมไว จ่ายผ่าน QR พร้อมเพย์ 24 ชม. + ระบบสมาชิกสะสมพ้อย | **[nexwest.in.th](https://nexwest.in.th)** |
-| 💝 | **LedgerTip** | รับโดเนทสำหรับครีเอเตอร์ — แจ้งเตือนสวย เอฟเฟกต์อลังการ เงินเข้าบัญชีโดยตรง ไม่มีคนกลาง | **[ledgertip.com](https://ledgertip.com)** |
-| 💻 | **nlc-cli** | AI CLI สำหรับนักพัฒนา (โอเพนซอร์ส) — แชท ค้นเว็บ ใช้เครื่องมือ ในเทอร์มินัล | **[github.com/NexGerCore/nlc-cli](https://github.com/NexGerCore/nlc-cli)** |
+| ผลิตภัณฑ์ | คือ | เข้าดูเว็บจริง |
+|---|---|---|
+| **NEXWEST** | SaaS payroll · commission · income ledger · payout approval สำหรับธุรกิจไทย ตรวจสอบย้อนหลังได้ | **[nexwest.co.th](https://nexwest.co.th)** · [app](https://app.nexwest.app) |
+| **NLC AI X OddsForge** | แพลตฟอร์ม AI หลายโมเดล — เว็บแชท (สตรีมมิ่ง, Artifacts, ค้นเว็บสด, เครื่องมือ MCP) + API มาตรฐาน OpenAI/Anthropic จ่ายตามใช้ | **[oddsforge.org](https://oddsforge.org)** · [chat](https://oddsforge.org/chat) · [docs](https://oddsforge.org/docs) |
+| **Nex Topup** | เว็บเติมเกมราคาถูก เติมไว จ่ายผ่าน QR พร้อมเพย์ 24 ชม. + ระบบสมาชิกสะสมพ้อย | **[nexwest.in.th](https://nexwest.in.th)** |
+| **LedgerTip** | รับโดเนทสำหรับครีเอเตอร์ — แจ้งเตือนสวย เอฟเฟกต์อลังการ เงินเข้าบัญชีโดยตรง ไม่มีคนกลาง | **[ledgertip.com](https://ledgertip.com)** |
+| **nlc-cli** | AI CLI สำหรับนักพัฒนา (โอเพนซอร์ส) — แชท ค้นเว็บ ใช้เครื่องมือ ในเทอร์มินัล | **[github.com/NexGerCore/nlc-cli](https://github.com/NexGerCore/nlc-cli)** |
 
-> 📁 แต่ละผลิตภัณฑ์มี repo แนะนำแยก (ดูรายละเอียด + สกรีนช็อต) ในหน้า **Repositories** ของบัญชีนี้
+แต่ละผลิตภัณฑ์มี repo แนะนำแยก (รายละเอียด + สกรีนช็อต) ในหน้า **Repositories** ของบัญชีนี้
 
 ---
 
-## 🛠️ เทคโนโลยีที่เราใช้ / Stack
+## เทคโนโลยีที่เราใช้ / Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -43,8 +43,8 @@
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)
 
-## 📫 ติดต่อ / Contact
+## ติดต่อ / Contact
 
-🌐 [nexwest.co.th](https://nexwest.co.th) &nbsp;·&nbsp; ✉️ info@nexwest.co.th
+[nexwest.co.th](https://nexwest.co.th) &nbsp;·&nbsp; info@nexwest.co.th
 
 <sub>© 2026 NEXWEST LEDGER CORE COMPANY LIMITED · จดทะเบียน 0805569001819</sub>
