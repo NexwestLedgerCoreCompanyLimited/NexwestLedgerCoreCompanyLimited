@@ -27,6 +27,7 @@
 | **Nex Topup** | เว็บเติมเกมราคาถูก เติมไว จ่ายผ่าน QR พร้อมเพย์ 24 ชม. + ระบบสมาชิกสะสมพ้อย | **[nexwest.in.th](https://nexwest.in.th)** |
 | **LedgerTip** | รับโดเนทสำหรับครีเอเตอร์ — แจ้งเตือนสวย เอฟเฟกต์อลังการ เงินเข้าบัญชีโดยตรง ไม่มีคนกลาง | **[ledgertip.com](https://ledgertip.com)** |
 | **nlc-cli** | AI CLI สำหรับนักพัฒนา (โอเพนซอร์ส) — แชท ค้นเว็บ ใช้เครื่องมือ ในเทอร์มินัล | **[github.com/NexGerCore/nlc-cli](https://github.com/NexGerCore/nlc-cli)** |
+| **NeledPort** | โปรแกรมเปิดเซิร์ฟเวอร์เกม Steam บน Windows/Linux (โอเพนซอร์ส · กำลังพัฒนา) — ติดตั้ง รัน ดู log จัดการผู้เล่น แบน ใส่ม็อด ในแอปเดียว | **[github.com/NexwestLedgerCoreCompanyLimited/NeledPort](https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort)** · [ดาวน์โหลด](https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort/releases) |
 
 แต่ละผลิตภัณฑ์มี repo แนะนำแยก (รายละเอียด + สกรีนช็อต) ในหน้า **Repositories** ของบัญชีนี้
 
@@ -42,6 +43,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ## ติดต่อ / Contact
 
