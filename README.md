@@ -1,9 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-    <img src="logo.png" alt="NEXWEST LEDGER CORE" width="380">
+    <img src="logo.png" alt="NEXWEST LEDGER CORE logo" width="220">
   </picture>
 </p>
+
+<h1 align="center">NEXWEST LEDGER CORE</h1>
 
 <h3 align="center">Free, open-source software that is easy to use and looks good doing it.</h3>
 <p align="center">Built in Thailand. Made for everyone.</p>
@@ -22,7 +24,7 @@
   <tr>
     <td width="55%" valign="top">
       <a href="https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort">
-        <img src="https://raw.githubusercontent.com/NexwestLedgerCoreCompanyLimited/NeledPort/main/docs/images/screenshot.png" alt="NeledPort app screenshot">
+        <img src="https://raw.githubusercontent.com/NexwestLedgerCoreCompanyLimited/NeledPort/main/docs/images/tour.gif" alt="A tour of the NeledPort app">
       </a>
     </td>
     <td width="45%" valign="top">
@@ -33,7 +35,9 @@
         <li>One-click server install, no terminal needed</li>
         <li>Live console, kick and ban players in a click</li>
         <li>Server-side mods and Steam Workshop</li>
-        <li>Automatic world backups before every update</li>
+        <li>World backups before every update, restore in a click</li>
+        <li>Edit server settings and config files in the app</li>
+        <li>English and Thai, more languages welcome</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Windows-0b0f18?style=flat-square&logo=windows&logoColor=white" alt="Windows">
@@ -44,7 +48,7 @@
         <a href="https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort/releases/latest"><img src="https://img.shields.io/github/v/release/NexwestLedgerCoreCompanyLimited/NeledPort?include_prereleases&style=for-the-badge&label=Download&color=a78bfa&labelColor=0b0f18" alt="Download latest release"></a>
         <a href="https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort/stargazers"><img src="https://img.shields.io/github/stars/NexwestLedgerCoreCompanyLimited/NeledPort?style=for-the-badge&color=22d3ee&labelColor=0b0f18" alt="Stars"></a>
       </p>
-      <sub>Palworld · Rust · Valheim · Counter-Strike 2 · more coming</sub>
+      <sub>Palworld · Rust · Valheim · Counter-Strike 2 · 80+ more</sub>
     </td>
   </tr>
 </table>
@@ -60,6 +64,7 @@ Everything here is open source, and you don't need to be a pro to help.
 | I want to... | Start here |
 |---|---|
 | Add a game I play to NeledPort (one JSON file) | [Add a game](https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort/blob/main/CONTRIBUTING.md#add-a-game) |
+| Translate NeledPort into my language | [Translation issues](https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort/issues?q=is%3Aissue+is%3Aopen+Translate) |
 | Report a bug or request a game | [Open an issue](https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort/issues/new/choose) |
 | Share an idea or ask a question | [Discussions](https://github.com/NexwestLedgerCoreCompanyLimited/NeledPort/discussions) |
 | Say thanks | Star the repo |
