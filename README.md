@@ -53,13 +53,47 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://github.com/NexwestLedgerCoreCompanyLimited/mineoffice-agent">
+        <img src="https://raw.githubusercontent.com/NexwestLedgerCoreCompanyLimited/mineoffice-agent/main/docs/images/tour.gif" alt="A tour of the MineOffice app">
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://raw.githubusercontent.com/NexwestLedgerCoreCompanyLimited/mineoffice-agent/main/docs/images/logo.png" alt="MineOffice logo" width="96" align="right">
+      <h3><a href="https://github.com/NexwestLedgerCoreCompanyLimited/mineoffice-agent">MineOffice</a></h3>
+      <p><b>An AI team of 30 for your Minecraft world, your code and your business.</b></p>
+      <ul>
+        <li>Give one goal, and the Commander splits it up for each role</li>
+        <li>Bots that build, mine, guard and scout in your server</li>
+        <li>Developers, designers and QA, with your review before any merge</li>
+        <li>Admin, social media, content, marketing and graphics</li>
+        <li>OpenRouter, Gemini, Claude, OpenAI or Ollama</li>
+        <li>English and Thai</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Windows-0b0f18?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/macOS-0b0f18?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+        <img src="https://img.shields.io/badge/Linux-0b0f18?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+        <img src="https://img.shields.io/badge/license-BSL%201.1-0b0f18?style=flat-square" alt="BSL 1.1 license">
+      </p>
+      <p>
+        <a href="https://github.com/NexwestLedgerCoreCompanyLimited/mineoffice-agent/releases/latest"><img src="https://img.shields.io/github/v/release/NexwestLedgerCoreCompanyLimited/mineoffice-agent?include_prereleases&style=for-the-badge&label=Download&color=2230e3&labelColor=0b0f18" alt="Download MineOffice"></a>
+        <a href="https://github.com/NexwestLedgerCoreCompanyLimited/mineoffice-agent/stargazers"><img src="https://img.shields.io/github/stars/NexwestLedgerCoreCompanyLimited/mineoffice-agent?style=for-the-badge&color=2230e3&labelColor=0b0f18" alt="Stars"></a>
+      </p>
+      <sub>Free to use and to earn with. Source available, and each version becomes Apache 2.0 after four years.</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center"><sub>More projects are on the way. <b>Follow</b> to get notified when they ship.</sub></p>
 
 ---
 
 ## Build it with us
 
-Everything here is open source, and you don't need to be a pro to help.
+NeledPort is open source, and you don't need to be a pro to help.
 
 | I want to... | Start here |
 |---|---|
