@@ -7,7 +7,7 @@
 
 <h1 align="center">NEXWEST LEDGER CORE</h1>
 
-<h3 align="center">Free, open-source software that is easy to use and looks good doing it.</h3>
+<h3 align="center">Free tools that are easy to use and look good doing it.</h3>
 <p align="center">Built in Thailand. Made for everyone.</p>
 
 <p align="center">
