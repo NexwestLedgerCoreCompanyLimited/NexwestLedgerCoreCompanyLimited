@@ -87,6 +87,40 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://github.com/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab">
+        <img src="https://raw.githubusercontent.com/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab/main/docs/images/tour.gif" alt="A tour of the VFX NexgerLab app">
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://raw.githubusercontent.com/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab/main/docs/images/logo.png" alt="VFX NexgerLab logo" width="96" align="right">
+      <h3><a href="https://github.com/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab">VFX NexgerLab</a></h3>
+      <p><b>An offline studio for pixel art VFX, animated characters, and game maps.</b></p>
+      <ul>
+        <li>A live library of 244 effects you can change without code</li>
+        <li>Characters from a description, with eight animations</li>
+        <li>2D top-down, side-scroller, isometric and 3D voxel maps</li>
+        <li>A local MCP server, so AI tools can make assets for you</li>
+        <li>Sprite sheets, GIF, WebP, Aseprite, Tiled, GLB and more</li>
+        <li>English and Thai</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Windows-0b0f18?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/macOS-0b0f18?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+        <img src="https://img.shields.io/badge/Linux-0b0f18?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+        <img src="https://img.shields.io/badge/license-BSL%201.1-0b0f18?style=flat-square" alt="BSL 1.1 license">
+      </p>
+      <p>
+        <a href="https://github.com/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab/releases/latest"><img src="https://img.shields.io/github/v/release/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab?include_prereleases&style=for-the-badge&label=Download&color=2230e3&labelColor=0b0f18" alt="Download VFX NexgerLab"></a>
+        <a href="https://github.com/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab/stargazers"><img src="https://img.shields.io/github/stars/NexwestLedgerCoreCompanyLimited/vfx-nexgerlab?style=for-the-badge&color=2230e3&labelColor=0b0f18" alt="Stars"></a>
+      </p>
+      <sub>Free to use and to earn with. Source available, and each version becomes Apache 2.0 after four years.</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center"><sub>More projects are on the way. <b>Follow</b> to get notified when they ship.</sub></p>
 
 ---
